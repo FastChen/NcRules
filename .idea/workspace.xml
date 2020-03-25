@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abeea5f0-80aa-4bea-a08a-5889236c7cfe" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZbcU45SZgNTyUzLnG3f94fZoqn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NcRules build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="用户自定义" created="1585115365167" text="Prefix" recursive="false" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="refix" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abeea5f0-80aa-4bea-a08a-5889236c7cfe" name="默认更改列表" comment="" />
+      <created>1585111246051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585111246051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="943" height="512" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1585115365154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="512" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585115365154" />
+    <state x="329" y="295" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1585115365153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="295" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585115365153" />
+    <state x="249" y="143" key="#项目结构" timestamp="1585133794682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="143" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1585133794682" />
+    <state x="740" y="263" key="FileChooserDialogImpl" timestamp="1585130404406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585130404406" />
+    <state width="1492" height="234" key="GridCell.Tab.0.bottom" timestamp="1585134550282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1492" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585134550282" />
+    <state width="1492" height="234" key="GridCell.Tab.0.center" timestamp="1585134550282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1492" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585134550282" />
+    <state width="1492" height="234" key="GridCell.Tab.0.left" timestamp="1585134550281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1492" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585134550281" />
+    <state width="1492" height="234" key="GridCell.Tab.0.right" timestamp="1585134550282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1492" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585134550282" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585127467832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585127467832" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585127467832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585127467832" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585127467832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585127467832" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585127467832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585127467832" />
+    <state x="356" y="261" key="Registry" timestamp="1585130841432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="356" y="261" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1585130841432" />
+    <state x="236" y="180" width="1380" height="700" key="SettingsEditor" timestamp="1585133847999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="236" y="180" width="1380" height="700" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585133847999" />
+    <state x="288" y="161" key="new project wizard" timestamp="1585142241986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="288" y="161" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585142241986" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585130756400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585130756400" />
+  </component>
+</project>

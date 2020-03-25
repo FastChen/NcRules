@@ -1,0 +1,36 @@
+# 作者:FastChen 官方网站:https://nullcraft.org 本插件为入坑开发用时6小时左右 可能会有奇奇怪怪的BUG
+lang:
+  prefix: '&7[&9Nc&6Rules&7] '
+  # type /ncrs help back content
+  commands: '> 使用命令 NcRules & Ncrs'
+  commandhelp: '&3> &7/ncrs help 获取帮助'
+  commandreload: '&3> &7/ncrs reload 重载配置文件并立即应用规则到已启用世界'
+  commandlist: '&3> &7/ncrs list 列出已启用世界'
+  commandadd: '&3> &7/ncrs add [World] 添加世界并立即应用目前配置规则'
+  #call back content
+  gethelp: '请使用 /ncrs help 获取帮助'
+  reloaddone: '已重载配置文件!'
+  notpermissions: '你没有权限使用这个命令!'
+  # add world content
+  notexistworld: '不是一个有效存在的世界!'
+  addworlddone: '已修改规则并添加世界:'
+  existedworld: '已存在'
+  activeworld: '已启用世界: '
+  # full content changedrules + worldname + changedworldrules Example changed world_the_end's rules
+  changedrules: '已更改:'
+  changedworldrules: '世界的规则'
+
+respawntitle:
+  enabled: true
+  title: '&7[&a!&7] &a已自动重生'
+  subtitle: '人生能重来~我要做李白~'
+
+rules:
+  doImmediateRespawn: false #死亡自动复活取消死亡画面 默认开启
+  keepInventory: false #死亡不掉落 默认关闭
+  doFireTick: true #火势蔓延 默认开启
+
+enableworlds: #可手动添加然后开启服务器或开服时添加后/ncrs Reload
+#  - world
+#  - world_nether
+#  - world_the_end

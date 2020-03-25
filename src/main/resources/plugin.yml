@@ -1,0 +1,25 @@
+name: NcRules
+version: ${project.version}
+main: org.nullcraft.ncrules.NcRules
+author: [FastChen, NullCraft]
+website: https://nullcraft.org
+description: Change Worlds GameRules
+
+commands:
+  ncrules:
+    aliases: ncrs
+    description: 'User /ncrules help or /ncrs help Get More Info'
+
+permissions:
+  ncrules.help:
+    default: op
+    description: 'NcRules Help'
+  ncrules.reload:
+    default: op
+    description: 'Reload NcRules Config & Worlds'
+  ncrules.list:
+    default: op
+    description: 'List Using Worlds'
+  ncrules.add:
+    default: op
+    description: 'Add Worlds to Rules & Config'
