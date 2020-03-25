@@ -6,4 +6,4 @@
 
 有任何问题欢迎提出issues
 
-顺便问下插件开发大佬 plugin.yml 里的 version: ${project.version} 在哪里设置?使用IntelliJ IDEA开发(花)
+顺便问下插件开发大佬 plugin.yml 里的 version: ${project.version} 在哪里设置当前插件本体版本?使用IntelliJ IDEA开发(花)
